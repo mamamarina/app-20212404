@@ -1,0 +1,15 @@
+.container {
+  max-width: 992px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  text-align: center;
+  color: tomato;
+  text-transform: uppercase;
+}
